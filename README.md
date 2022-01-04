@@ -10,7 +10,7 @@
 
 ### I'm currently listening to:
 
-[![Spotify](https://jacksibley.vercel.app/api/spotify)](https://open.spotify.com/user/1242159024)
+[![Spotify](novatorem-4dzopcwp5-jacksibley.vercel.app)](https://open.spotify.com/user/1242159024)
 
 ### Connect with me:
 
