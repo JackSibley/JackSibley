@@ -1,6 +1,6 @@
 ### Hi, I'm Jack 👋
 
-## I'm a Touring DJ, and upcoming Software Engineer
+## I'm a Touring DJ, Motorcycle Enthusiast, ex-Semi-Pro Valorant Player and Upcoming Software Engineer.
 
 - 👀 I’m interested in Music, Problem solving and upcoming Tech
 - 🌱 I’m currently learning React, Node.js and Python
