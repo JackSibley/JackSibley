@@ -1,18 +1,14 @@
 ![image](https://github.com/JackSibley/JackSibley/blob/main/githubHeader.png)
 
-### Hi, I'm Jack 👋
+Crafting digital dreams with code. From classroom to compiler, I turn concepts into elegant software solutions.
 
-## I'm a tech enthusiast who loves to learn about new things. Connect with me!
+I'm a tech enthusiast who loves to learn about new things. Connect with me!
 
 ### Connect with me:
 
-[<img align="left" alt="Jack Sibley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jack Sibley | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Jack Sibley | Soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />][soundcloud]
-
-[Instagram badge]: https://instagram.com/jsibley
-[Linkedin badge]: https://linkedin.com/in/jsibley
-[soundcloud]: https://soundcloud.com/spcemusic
-[Website Badge]: https://jacksibley.dev
+[![Instagram Badge](https://img.shields.io/badge/-jsibley-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jsibley/)](https://www.instagram.com/jsibley/)
+[![Linkedin Badge](https://img.shields.io/badge/-JackSibley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jsibley/)](https://linkedin.com/in/jsibley/)
+[![Soundcloud Badge](https://img.shields.io/badge/-spce.music-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://soundcloud.com/spcemusic/)](https://soundcloud.com/spcemusic/)
+[![Website Badge](https://img.shields.io/badge/-jacksibley.dev-1434d9?style=flat-square&logo=HTML5&logoColor=white&link=https://jacksibley.dev/)](https://jacksibley.dev)
 
 ![image](https://github.com/JackSibley/JackSibley/blob/main/dino.gif)
