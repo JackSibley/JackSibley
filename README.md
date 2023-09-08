@@ -1,4 +1,4 @@
-![Header image](https://github.com/JackSibley/JackSibley/blob/master/githubHeader.png)
+![image](https://github.com/JackSibley/JackSibley/blob/main/githubHeader.png)
 
 ### Hi, I'm Jack 👋
 
@@ -15,4 +15,4 @@
 [soundcloud]: https://soundcloud.com/spcemusic
 [Website Badge]: https://jacksibley.dev
 
-![image](https://github.com/JackSibley/JackSibley/blob/master/dino.gif)
+![image](https://github.com/JackSibley/JackSibley/blob/main/dino.gif)
